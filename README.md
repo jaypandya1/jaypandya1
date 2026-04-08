@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Pandya</h1>
-<h3 align="center">DevOps Engineer | Building scalable Cloud Infrastructure with AWS & Terraform | CI/CD Specialist | Learning in public 🛠️</h3>
+<h3 align="center">DevOps Engineer | Building scalable Cloud Infrastructure with AWS & Terraform | CI/CD Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
